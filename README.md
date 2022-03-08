@@ -5,11 +5,10 @@
 <p align="center"><img src="https://thumbs.gfycat.com/AnyMessyBison-size_restricted.gif"/></p>
 <h2><Maven Repository></h2>
   
-  
-  <h2> Retrofit</h2><br>
+<h2> Retrofit</h2><br>
   <h4> Retrofit2 New version link</h4><br>
-  <a href="https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit"> Retrofit2 link</a>
-  <a href="https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-gson"> Retrofit2 link</a>
+  <a href="https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit"> Retrofit2</a><br>
+  <a href="https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-gson"> Converter:Gson</a>
   
 ```gradle
   dependencies{
