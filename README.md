@@ -62,3 +62,49 @@ dependencies {
 }
 ```
 <br><br>
+<h2> LiveData</h2><br>
+  <h4> LiveData New version link</h4><br>
+  <a href="https://mvnrepository.com/artifact/androidx.lifecycle/lifecycle-livedata"> LiveData/a><br>
+  
+```gradle
+    dependencies {
+    def livedata_version ="2.4.1"
+    runtimeOnly("androidx.lifecycle:lifecycle-livedata:$livedata_version")
+    }
+```
+<br><br>
+<h2> LiveCycle</h2><br>
+  <h4> LiveCycle New version link</h4><br>
+  <a href="https://mvnrepository.com/artifact/androidx.lifecycle/lifecycle-livedata-core"> LiveCycle/a><br>
+  
+```gradle
+    dependencies {
+   def lifecycle_version="2.4.1"
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version")
+    }
+```
+<br><br>
+<h2>Navigation</h2><br>
+  <h4> LiveCycle New version link</h4><br>
+  <a href="https://mvnrepository.com/artifact/androidx.navigation/navigation-fragment-ktx"> Navigation</a><br>
+  
+```gradle
+    def nav_version = "2.4.1"
+    implementation("androidx.navigation:navigation-fragment-ktx:$nav_version")
+    implementation("androidx.navigation:navigation-ui-ktx:$nav_version")
+    implementation "androidx.navigation:navigation-dynamic-features-fragment:$nav_version"
+    androidTestImplementation "androidx.navigation:navigation-testing:$nav_version"
+    // Jetpack Compose Integration
+    implementation "androidx.navigation:navigation-compose:2.5.0-alpha03"
+```
+<br><br>
+<h2>Swiperefreshlayout</h2><br>
+  <h4> Swiperefreshlayout New version link</h4><br>
+  <a href="https://developer.android.com/jetpack/androidx/releases/swiperefreshlayout?hl=ko"> Swiperefreshlayout</a><br>
+  
+```gradle
+    dependencies {
+    implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.1.0")
+}
+```   
+    
