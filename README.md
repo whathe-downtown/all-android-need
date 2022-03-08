@@ -2,7 +2,7 @@
 
 <h1>I don't want to searching anymore </h1>
 
-<img src="https://thumbs.gfycat.com/AnyMessyBison-size_restricted.gif"/>
+<p align="center"><img src="https://thumbs.gfycat.com/AnyMessyBison-size_restricted.gif"/></p>
 <h2><Maven Repository></h2>
   
   
