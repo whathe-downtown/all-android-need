@@ -64,7 +64,7 @@ dependencies {
 <br><br>
 <h2> LiveData</h2><br>
   <h4> LiveData New version link</h4><br>
-  <a href="https://mvnrepository.com/artifact/androidx.lifecycle/lifecycle-livedata"> LiveData/a><br>
+  <a href="https://mvnrepository.com/artifact/androidx.lifecycle/lifecycle-livedata"> LiveData</a><br>
   
 ```gradle
     dependencies {
@@ -75,7 +75,7 @@ dependencies {
 <br><br>
 <h2> LiveCycle</h2><br>
   <h4> LiveCycle New version link</h4><br>
-  <a href="https://mvnrepository.com/artifact/androidx.lifecycle/lifecycle-livedata-core"> LiveCycle/a><br>
+  <a href="https://mvnrepository.com/artifact/androidx.lifecycle/lifecycle-livedata-core"> LiveCycle</a><br>
   
 ```gradle
     dependencies {
