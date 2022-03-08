@@ -17,7 +17,7 @@
   implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 }
 ```
-  
+
 <h2> Glide</h2><br>
   <h4> Glide New version link</h4><br>
   
@@ -35,7 +35,7 @@ dependencies {
   annotationProcessor 'com.github.bumptech.glide:compiler:4.13.0'
 }
 ```
-  
+</hr>
 <h2> Kotlin Coroutines</h2><br>
   <h4> Kotlin Coroutines version link</h4><br>
   <a href="https://github.com/Kotlin/kotlinx.coroutines"> Coroutines</a><br>
