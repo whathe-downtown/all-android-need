@@ -19,8 +19,8 @@
 <br><br>
 <h2> okHttp3</h2><br>
   <h4> okHttp3 New version link</h4><br>
-  <a href="https://mvnrepository.com/artifact/com.squareup.retrofit2/okthttp3"> okhttp3</a><br>
-  <a href="https://mvnrepository.com/artifact/com.squareup.retrofit2/logging-interceptor"> logging-interceptor</a>
+  <a href="https://mvnrepository.com/artifact/com.squareup.okhttp3/okhttp"> okhttp3</a><br>
+  <a href="https://mvnrepository.com/artifact/com.squareup.okhttp3/logging-interceptor"> logging-interceptor</a>
   
 ```gradle
     dependencies {
