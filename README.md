@@ -17,7 +17,7 @@
   implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 }
 ```
-<hr color="green" size="10px"/>
+
 <h2> Glide</h2><br>
   <h4> Glide New version link</h4><br>
   
