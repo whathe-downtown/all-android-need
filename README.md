@@ -17,15 +17,20 @@
   implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 }
 ```
-<h2> Retrofit</h2><br>
-  <h4> Retrofit2 New version link</h4><br>
-  <a href="https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit"> Retrofit2</a><br>
-  <a href="https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-gson"> Converter:Gson</a>
+<h2> Glide</h2><br>
+  <h4> Glide New version link</h4><br>
+  
+  <a href="https://github.com/bumptech/glide"> Gldie</a><br>
+
   
 ```gradle
-  dependencies{
-  def retrofit2_version = "2.9.0"
-  implementation("com.squareup.retrofit2:retrofit:2.9.0")
-  implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+ repositories {
+  google()
+  mavenCentral()
+}
+
+dependencies {
+  implementation 'com.github.bumptech.glide:glide:4.13.0'
+  annotationProcessor 'com.github.bumptech.glide:compiler:4.13.0'
 }
 ```
