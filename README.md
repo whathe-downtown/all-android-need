@@ -4,7 +4,6 @@
 
 <p align="center"><img src="https://thumbs.gfycat.com/AnyMessyBison-size_restricted.gif"/></p>
 <h2><Maven Repository></h2>
-  
 <h2> Retrofit</h2><br>
   <h4> Retrofit2 New version link</h4><br>
   <a href="https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit"> Retrofit2</a><br>
@@ -17,7 +16,7 @@
   implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 }
 ```
-
+<br><br>
 <h2> Glide</h2><br>
   <h4> Glide New version link</h4><br>
   
