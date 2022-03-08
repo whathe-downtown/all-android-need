@@ -11,9 +11,9 @@
   
 ```gradle
   dependencies{
-  def retrofit2_version = "2.9.0"
-  implementation("com.squareup.retrofit2:retrofit:2.9.0")
-  implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+   def retrofit2_version = "2.9.0"
+    implementation("com.squareup.retrofit2:retrofit:$retrofit2_version")
+    implementation("com.squareup.retrofit2:converter-gson:$retrofit2_version")
 }
 ```
 <br><br>
