@@ -17,10 +17,11 @@
   implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 }
 ```
+  
 <h2> Glide</h2><br>
   <h4> Glide New version link</h4><br>
   
-  <a href="https://github.com/bumptech/glide"> Gldie</a><br>
+  <a href="https://github.com/bumptech/glide"> Glide</a><br>
 
   
 ```gradle
@@ -32,5 +33,17 @@
 dependencies {
   implementation 'com.github.bumptech.glide:glide:4.13.0'
   annotationProcessor 'com.github.bumptech.glide:compiler:4.13.0'
+}
+```
+  
+<h2> Kotlin Coroutines</h2><br>
+  <h4> Kotlin Coroutines version link</h4><br>
+  <a href="https://github.com/Kotlin/kotlinx.coroutines"> Coroutines</a><br>
+  
+ 
+```gradle
+  def coroutines_version ="1.6.0"
+  dependencies {
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutines_version")
 }
 ```
