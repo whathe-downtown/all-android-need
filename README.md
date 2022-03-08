@@ -6,10 +6,11 @@
 <h2><Maven Repository></h2>
   
   
-  <h2> Retrofit</h2>
-  <h4> Retrofit2 New version link</h4>
+  <h2> Retrofit</h2><br>
+  <h4> Retrofit2 New version link</h4><br>
   <a href="https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit"> Retrofit2 link</a>
   <a href="https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-gson"> Retrofit2 link</a>
+  
 ```gradle
   dependencies{
   def retrofit2_version = "2.9.0"
